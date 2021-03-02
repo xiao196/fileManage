@@ -1,0 +1,2 @@
+# fileManage
+C#-auto delFile
